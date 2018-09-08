@@ -1,7 +1,7 @@
 # babel
 treat data as code. 
 
-easily load commonly used datasets such as mnist, cifar, imagenet.
+easily load commonly used datasets such as mnist, [cifar](https://www.cs.toronto.edu/~kriz/cifar.html), imagenet, and [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/).
 
 ## usage
 ```python
