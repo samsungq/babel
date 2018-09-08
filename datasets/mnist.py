@@ -1,4 +1,4 @@
-from util import get_file
+from .util import get_file
 import numpy as np
 
 

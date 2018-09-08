@@ -5,7 +5,7 @@ easily load commonly used datasets such as mnist, [cifar](https://www.cs.toronto
 
 ## usage
 ```python
-import mnist
+from datasets import mnist
 
 # fetch mnist data
 train_data, test_data = mnist.load_data()  

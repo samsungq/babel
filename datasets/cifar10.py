@@ -1,8 +1,9 @@
-from util import get_file
 import numpy as np
 import os
 import sys
 from six.moves import cPickle
+
+from .util import get_file
 
 
 def load_batch(fpath, label_key='labels'):
