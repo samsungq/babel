@@ -1,7 +1,7 @@
 # babel
-treat data as code. 
+manage data as code. 
 
-easily load commonly used datasets such as mnist, [cifar](https://www.cs.toronto.edu/~kriz/cifar.html), imagenet, [bAbI](https://research.fb.com/downloads/babi/), and [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/).
+import commonly used datasets such as mnist, [cifar](https://www.cs.toronto.edu/~kriz/cifar.html), imagenet, [bAbI](https://research.fb.com/downloads/babi/), [bsds300](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/) and [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/).
 
 ## usage
 ```python
